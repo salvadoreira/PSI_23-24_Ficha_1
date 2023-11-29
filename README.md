@@ -8,46 +8,53 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Salvador Eira
 
 ## E1 - Responde às seguintes questões (4v)
 
     1 - As classes são tipos de referência? 
-        ...
-    2 - (Classes/Instâncias) definem o que algo pode fazer e guardar, enquanto uma
-        (classe/instância) é um objeto específico que contém o seu próprio estado 
+        Sim
+    2 - Classes definem o que algo pode fazer e guardar, enquanto uma
+        instância é um objeto específico que contém o seu próprio estado 
         (Apaga a opção entre parênteses errada)
     3 - Indica três tipos de membros que podem pertencer a uma classe 
         ...
     4 - Se algo é static então é partilhado por todas as instâncias desse tipo específico? 
         ...
     5 - Como se chamam os métodos especiais que inicializam uma classe? 
-        ...
+       
     6 - De onde podes aceder a algo private? 
-        ...
+        Membro apenas acessível dentro da classe
+
     7 - De onde podes aceder a algo public? 
-        ... 
+        Membro acessível a partir de qualquer sítio
+
     8 - De onde podes aceder a algo internal? 
-        ...
+        Membro acessível dentro do mesmo projeto
 
 ## E2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
-        ...
+        Sao categorias gerais de objetos
     2 - Objeto / instância
-        ...
+        São casos específicos de objetos
     3 - Método
-        ...
+        Permitem que código externo manipule instâncias
     4 - Construtor
-        ...
+        Inicializam estado de novas instâncias
+
     5 - Variável de instância
-        ...
+        Definem estado de cada instância da classe
+
     6 - Variável local
-        ...
+        Variável local “oculta” variável de instância
+
     7 - Overloading
-        ...
+        Múltiplos métodos com o mesmo nome
+
     8 - Encapsulação
-        ...
+        Objetos devem manter controlo e integridade dos seus dados / estado, classe deve manter o seu estado privado.
+
 
 ## E3 - Cria o seguinte programa de consola (12v)
 
